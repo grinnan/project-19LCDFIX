@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "pxt-mecanum-robot": "github:keyestudio2019/mecanum_robot#2dc5a59d9c854ac028dfb6d04461c48c44dc4064",
-        "MakerBit": "github:1010technologies/pxt-makerbit#v1.7.26"
+        "MakerBit": "github:1010technologies/pxt-makerbit#v1.7.26",
+        "i2cLCD1602": "github:makecode-extensions/i2clcd1602#v1.5.0"
     },
     "files": [
         "main.blocks",
@@ -27,5 +28,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
